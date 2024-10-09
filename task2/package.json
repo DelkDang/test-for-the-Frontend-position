@@ -16,6 +16,7 @@
     "react-datepicker": "^7.4.0",
     "react-dom": "^18",
     "react-hook-form": "^7.53.0",
+    "react-select": "^5.8.1",
     "xlsx": "^0.18.5",
     "yup": "^1.4.0"
   },
